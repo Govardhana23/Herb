@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
             <span className="block">your plant knowledge</span>
           </h1>
           <p className="mt-6 text-xl text-gray-600 dark:text-gray-300">
-            Identify plants, diagnose issues, and track your plant care journey while earning rewards with PlantPal.
+            Identify plants, diagnose issues, and track your plant care journey while earning rewards with HerbiVista.
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <Link
